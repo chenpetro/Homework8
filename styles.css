@@ -1,0 +1,45 @@
+div + h3 + p {
+    color: green;
+}
+h3 {
+    color:pink ;
+}
+div + h3 {
+    color: black;
+}
+#greycol {
+    color: gray;
+}
+div div p {
+    color: red;
+}
+.yellow {
+    color: yellow;
+}
+
+#monday {
+    color: aquamarine;
+}
+#tuesday {
+    color:blueviolet;
+}
+#wednesday {
+    color: red;
+}
+#thursday {
+    color: green;
+}
+#friday {
+    color: palegreen;
+}
+#hover:hover {
+    color: blue;
+}
+#hover {
+    width: 100px;
+}
+
+/* unvisited link */
+a:link {
+    color: #FF0000;
+    }
