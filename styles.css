@@ -40,3 +40,17 @@ div div p {
 a:link {
     color: #FF0000;
     }
+    .additional li:nth-child(6) {
+        color: #FF0000;
+    }
+.container {
+    padding: 8px;
+    cursor: alias;
+    gap: 5px;
+}
+#friday li:nth-child(odd) {
+background-color:bisque;
+}
+#thursday li:first-child {
+    background-color: burlywood;
+}
